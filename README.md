@@ -1,4 +1,7 @@
 # YAQAAP
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/30f82931c0b14459a24d12e623ffa6dc)](https://www.codacy.com/app/Filimindji/YAQAAP?utm_source=github.com&utm_medium=referral&utm_content=Filimindji/YAQAAP&utm_campaign=badger)
+
 Yet another question and answer platform
 
 .NET, C#, Azure, NoSQL
